@@ -18,4 +18,5 @@ Diferente das VM's o docker não partilha seu hardware, não afetando totalmente
 ![docker](./assets/docker)
 
 Diferente das máquinas virtuais, o docker consegue compartilhar recursos da própria máquina hospedeira como o kernel, sem partir seu hardware assim como em VM's. 
+
 ![dockers](./assets/dockers)
